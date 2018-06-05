@@ -1,0 +1,23 @@
+h1 {
+  font-family: Comic Sans MS;
+font-size: 100px;
+}
+
+h2 {
+font-family: lobster;
+}
+
+h5 {
+  font-family: Comic Sans MS;
+  font-weight: bold;
+ 
+}
+body {
+  background-color: black;
+  color: white;
+
+}
+
+p {
+  font-family: Courier
+}
